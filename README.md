@@ -1,65 +1,128 @@
 <div align="center">
 
-# 🤖🔥 HERMES AGENT 🔥🤖
+# 🤖🔥 Hermes Agent Mobile 🔥🤖
 
-### 🚀 The Agent That Goes Where You Go — Now in Your Pocket 🚀
+### 🚀 Your AI Agent, Fully Local on Android — or Remotely Connected to Your Existing Hermes Instance 🚀
 
-[![Play Store](https://img.shields.io/badge/📲_Get_it_on-Play_Store-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=hermes.agent.mobile)
-[![Android](https://img.shields.io/badge/Platform-Android-34A853?style=for-the-badge&logo=android&logoColor=white)]()
-[![Status](https://img.shields.io/badge/Status-Internal_Testing-FF6B35?style=for-the-badge)]()
-[![License](https://img.shields.io/badge/License-MIT-FFD700?style=for-the-badge)](LICENSE)
+[![Play Store](https://img.shields.io/badge/Play%20Store-Hermes%20Agent%20Mobile-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=hermes.agent.mobile)
+[![GitHub Pages](https://img.shields.io/badge/Website-Live-8A2BE2?style=for-the-badge&logo=githubpages&logoColor=white)](https://phaneron23.github.io/hermes-agent-mobile/)
+[![Android](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://play.google.com/store/apps/details?id=hermes.agent.mobile)
+[![Status](https://img.shields.io/badge/Status-Internal%20Testing-FF6B35?style=for-the-badge)](https://play.google.com/store/apps/details?id=hermes.agent.mobile)
 
 <br />
 
-> **⚡ Your AI agent — now in your pocket.**
+> **Hermes Agent Mobile is the pocket command center for Hermes.**
 >
-> Proot-powered Linux runtime. SSH gateway. Agent console.
+> Run the whole agent stack locally on Android, or connect to an existing Hermes instance running somewhere else.
 >
-> **Desktop power. Mobile freedom.**
+> **Local when you want sovereignty. Remote when you want reach. Mobile always.**
+
+<br />
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                 H E R M E S   A G E N T                    ║
+║                        M O B I L E                         ║
+║                                                              ║
+║        LOCAL LINUX RUNTIME  •  REMOTE HERMES CONTROL        ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 </div>
+
+---
+
+## 🧠 TL;DR
+
+**Hermes Agent Mobile** gives you two powerful modes:
+
+- **📱 Fully Local Mode** — run Hermes directly on Android with a bundled Linux runtime, Node.js agent console, Proot, and SSH gateway.
+- **🌐 Remote Control Mode** — connect the mobile app to an existing Hermes instance on your desktop, server, cloud VM, or private homelab.
+
+Same vibe. Same agent. Different gravity.
 
 ---
 
 ## 🤯 What Is This?
 
-**Hermes Agent** is a native Android app that puts a full AI agent runtime in your pocket.
+Hermes Agent Mobile is not just another chatbot shell. It is a mobile-first control surface for real agent workflows: conversations, model routing, tools, files, tasks, SSH, and automation.
 
-Not a chatbot wrapper. Not a cloud UI. A real Linux environment (Proot), a Node.js agent server, and a full SSH gateway — all inside a single APK.
+Want everything self-contained? Run the agent stack locally on Android.
 
-- 💬 Chat with your agent on the go
-- 🔧 Run Linux commands on your phone — no root required
-- 🔌 SSH into your agent from any device
-- 📁 Browse repos, projects, and files from mobile
-- 🧠 Switch LLM models mid-conversation
-- ⏰ Schedule automated agent tasks
+Already have Hermes running on a beefy machine? Connect remotely and use your phone as the cockpit.
 
-**Your agent. Everywhere. Always.**
+**Yes, that means local autonomy. Yes, that means remote power. Yes, that means your agent finally follows you outside the desk cave.**
 
 ---
 
-## 📱 Get It
+## 🚀 Two Modes, One Agent
+
+| Mode | Best For | What Happens |
+|---|---|---|
+| 📱 **Fully Local** | Offline experiments, portable autonomy, Android-first hacking | The app launches a local Linux runtime and agent console directly on-device. |
+| 🌐 **Remote Hermes** | Desktop/server workflows, bigger models, long-running jobs | The app connects to an existing Hermes instance and becomes your mobile command center. |
+
+---
+
+## 🌍 What Can You Do With It?
+
+| 🔥 | Capability | Why It Matters |
+|---|---|---|
+| 💬 | **Chat with your agent** | Keep working from your phone without losing context. |
+| 🐧 | **Run locally on Android** | Proot-powered Linux runtime without rooting your device. |
+| 🌐 | **Connect remotely** | Control an existing Hermes instance from anywhere. |
+| 🔌 | **Use SSH workflows** | Terminal access for debugging, scripts, and deeper control. |
+| 📁 | **Browse projects** | Inspect files, repos, and workspace state on the move. |
+| 🧠 | **Switch models** | Route work to the right model for the job. |
+| ⚙️ | **Manage tasks** | Launch, monitor, and resume agent work. |
+| 🔐 | **Bring your own keys** | Keep auth and provider choices under your control. |
+| 📊 | **Review usage** | See sessions, costs, and activity without opening a laptop. |
+
+---
+
+## 📲 Get Hermes Agent Mobile
 
 <div align="center">
-  <a href="https://play.google.com/store/apps/details?id=hermes.agent.mobile">
-    <img src="https://img.shields.io/badge/📲_DOWNLOAD_FROM-PLAY_STORE-34A853?style=for-the-badge&logo=googleplay&logoColor=white" />
-  </a>
+
+[![Get Hermes Agent Mobile on Play Store](https://img.shields.io/badge/GET%20IT%20ON-GOOGLE%20PLAY-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=hermes.agent.mobile)
+
 </div>
 
-> Currently in **Internal Testing** — new builds shipped regularly.
+Play Store package:
+
+```text
+hermes.agent.mobile
+```
 
 ---
 
 ## ⚡ Quick Start
 
+### 📱 Fully Local Mode
+
 ```bash
-# 1. Install from Play Store
-# 2. Connect via ADB
+# Install from Play Store
+# Launch Hermes Agent Mobile
+# Let the bundled runtime start
+# Open the local dashboard or connect over SSH
+```
 
+### 🌐 Remote Hermes Mode
+
+```bash
+# Point the app at your existing Hermes instance
+# Connect from Android
+# Keep working from your phone
+```
+
+### 🔌 Local Debug Access
+
+```bash
+# Dashboard
 adb forward tcp:1455 tcp:1455
-# Open http://localhost:1455/ in your browser
+open http://localhost:1455/
 
-# Or SSH directly into the agent
+# SSH gateway
 adb forward tcp:8027 tcp:8027
 ssh -p 8027 root@localhost
 ```
@@ -68,88 +131,47 @@ ssh -p 8027 root@localhost
 
 ## 🏗️ Architecture
 
-```
-┌─────────────────────────────────────┐
-│         📱 Hermes App (APK)         │
-│  ┌───────────────────────────────┐  │
-│  │  🤖 Agent Console (Node.js)   │  │
-│  │  🌐 Dashboard :1455           │  │
-│  │  🔌 SSH Gateway :8027         │  │
-│  └──────────┬────────────────────┘  │
-│  ┌──────────▼────────────────────┐  │
-│  │  🐧 Proot Linux Runtime       │  │
-│  │  📦 Full Debian rootfs        │  │
-│  │  🔧 Python, Node, git, etc.   │  │
-│  └───────────────────────────────┘  │
-└─────────────────────────────────────┘
-```
-
----
-
-## 🎯 Features
-
-|  | Feature | What It Does |
-|---|---|---|
-| 💬 | Agent Chat | Full conversation with tool use, memory, and model switching |
-| 🐧 | Linux Runtime | Proot-powered Debian — no root, no cloud |
-| 🔌 | SSH Gateway | SSHd at port 8027 — access from laptop, desktop, or another phone |
-| 🌐 | Web Dashboard | Built-in HTTP server on port 1455 |
-| 📁 | File Management | Browse repos, read files, edit configs |
-| 🧠 | Multi-Model | GPT, Claude, Gemini — swap mid-conversation |
-| 📊 | Analytics | Token usage, session history, agent metrics |
-| 🔐 | Your Keys | BYO API keys — self-hosted or cloud |
-| 📱 | Native UI | Material Design 3, edge-to-edge, adaptive layout |
-
----
-
-## 📦 What's Inside
-
-| Component | Description |
-|---|---|
-| `AgentConsole/` | Android app (Kotlin + Jetpack Compose) |
-| `install_time_assets/` | Rootfs delivered via Play Asset Delivery |
-| `playstore/` | Upload scripts and store listing |
-| `scripts/` | Build and dev tooling |
-
----
-
-## 🛠️ Build
-
-```bash
-# APK for local testing
-./gradlew :app:assembleRelease
-
-# AAB for Play Store
-./gradlew :app:bundleRelease
-
-# Upload to internal track
-python3 playstore/upload_to_play.py \
-  --package hermes.agent.mobile \
-  --bundle app/build/outputs/bundle/release/app-release.aab \
-  --service-account play-service-account.json \
-  --track internal
+```text
+┌───────────────────────────────────────────────────────┐
+│                 Hermes Agent Mobile                   │
+│                                                       │
+│  ┌───────────────────────┐    ┌────────────────────┐  │
+│  │  📱 Local Mode         │    │  🌐 Remote Mode     │  │
+│  │                       │    │                    │  │
+│  │  Proot Linux Runtime  │    │  Existing Hermes   │  │
+│  │  Node Agent Console   │    │  Desktop / Server  │  │
+│  │  SSH Gateway          │    │  Cloud / Homelab   │  │
+│  └───────────┬───────────┘    └─────────┬──────────┘  │
+│              │                          │             │
+│              └──────── Mobile UI ───────┘             │
+│                                                       │
+│              Chat • Files • Models • Tasks            │
+└───────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 🤝 Contributing
+## 🧩 Why This Exists
 
-This is an Android adaptation of [nousresearch/hermes-agent](https://github.com/nousresearch/hermes-agent).
+Because agents should not be trapped behind a desktop window.
 
-PRs, issues, and forks welcome.
+Because sometimes the right computer is the server, sometimes it is the phone, and sometimes it is both.
+
+Because the future is not “one app.” It is **one agent surface across every machine you own**.
 
 ---
 
 ## ⭐ Star This Repo
 
-**If your agent should be in your pocket — not in a cloud dashboard — smash that star.** ⭐
+If you believe your AI agent should run **locally**, connect **remotely**, and stay **with you** — star the repo and grab the Android build.
 
 <div align="center">
-  <a href="https://play.google.com/store/apps/details?id=hermes.agent.mobile">
-    <img src="https://img.shields.io/badge/📲_GET_IT_ON-PLAY_STORE-34A853?style=for-the-badge&logo=googleplay&logoColor=white" />
-  </a>
 
-  <br /><br />
+[![Open Website](https://img.shields.io/badge/Open-Website-8A2BE2?style=for-the-badge&logo=githubpages&logoColor=white)](https://phaneron23.github.io/hermes-agent-mobile/)
+[![Play Store](https://img.shields.io/badge/Open-Play%20Store-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=hermes.agent.mobile)
 
-  *Your agent. Everywhere. Always.* 😏
+<br />
+
+**Hermes Agent Mobile** — *local power, remote reach, pocket-sized chaos.* 😏
+
 </div>
