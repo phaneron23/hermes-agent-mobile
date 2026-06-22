@@ -5,6 +5,7 @@
 ### 🚀 Your AI Agent, Fully Local on Android — or Remotely Connected to Your Existing Hermes Instance 🚀
 
 [![Play Store](https://img.shields.io/badge/Play%20Store-Hermes%20Agent%20Mobile-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=hermes.agent.mobile)
+[![Latest APK](https://img.shields.io/badge/Latest%20APK-Direct%20Download-ffb000?style=for-the-badge&logo=android&logoColor=white)](https://github.com/phaneron23/hermes-agent-mobile/releases/download/android-v0.1.0-571/app-release.apk)
 [![GitHub Pages](https://img.shields.io/badge/Website-Live-8A2BE2?style=for-the-badge&logo=githubpages&logoColor=white)](https://phaneron23.github.io/hermes-agent-mobile/)
 [![Android](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://play.google.com/store/apps/details?id=hermes.agent.mobile)
 [![Status](https://img.shields.io/badge/Status-Internal%20Testing-FF6B35?style=for-the-badge)](https://play.google.com/store/apps/details?id=hermes.agent.mobile)
@@ -85,6 +86,7 @@ Already have Hermes running on a beefy machine? Connect remotely and use your ph
 <div align="center">
 
 [![Get Hermes Agent Mobile on Play Store](https://img.shields.io/badge/GET%20IT%20ON-GOOGLE%20PLAY-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=hermes.agent.mobile)
+[![Download Latest APK](https://img.shields.io/badge/DOWNLOAD-LATEST%20APK-ffb000?style=for-the-badge&logo=android&logoColor=white)](https://github.com/phaneron23/hermes-agent-mobile/releases/download/android-v0.1.0-571/app-release.apk)
 
 </div>
 
@@ -92,6 +94,12 @@ Play Store package:
 
 ```text
 hermes.agent.mobile
+```
+
+Latest APK:
+
+```text
+https://github.com/phaneron23/hermes-agent-mobile/releases/download/android-v0.1.0-571/app-release.apk
 ```
 
 ---
@@ -169,6 +177,7 @@ If you believe your AI agent should run **locally**, connect **remotely**, and s
 
 [![Open Website](https://img.shields.io/badge/Open-Website-8A2BE2?style=for-the-badge&logo=githubpages&logoColor=white)](https://phaneron23.github.io/hermes-agent-mobile/)
 [![Play Store](https://img.shields.io/badge/Open-Play%20Store-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=hermes.agent.mobile)
+[![Latest APK](https://img.shields.io/badge/Open-Latest%20APK-ffb000?style=for-the-badge&logo=android&logoColor=white)](https://github.com/phaneron23/hermes-agent-mobile/releases/download/android-v0.1.0-571/app-release.apk)
 
 <br />
 
