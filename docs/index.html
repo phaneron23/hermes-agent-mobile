@@ -105,6 +105,14 @@
     .button:hover { transform: translateY(-2px); border-color: rgba(255,255,255,.34); }
     .primary { background: linear-gradient(135deg, var(--green), #2ea7ff); color: #071014; }
     .secondary { background: rgba(255,255,255,.08); }
+    .download-cta {
+      min-height: 66px;
+      padding: 0 30px;
+      font-size: 1.12rem;
+      border-width: 2px;
+      background: linear-gradient(135deg, #ffd66b, #ff8a3d 58%, #ff5f6d);
+      color: #1a0d05;
+    }
 
     section { padding: 76px 0; }
     .section-title {
@@ -189,6 +197,7 @@
       header { min-height: auto; }
       .grid, .mode-grid { grid-template-columns: 1fr; }
       h1 { letter-spacing: -0.06em; }
+      .download-cta { width: 100%; }
     }
   </style>
 </head>
@@ -201,8 +210,8 @@
         Run Hermes fully locally on Android with a bundled Linux runtime, or connect remotely to your existing Hermes desktop, server, cloud, or homelab instance.
       </p>
       <div class="cta">
+        <a class="button download-cta" href="https://github.com/phaneron23/hermes-agent-mobile/releases/latest/download/app-release.apk">⬇ Download Latest APK</a>
         <a class="button primary" href="https://play.google.com/store/apps/details?id=hermes.agent.mobile">📲 Open Play Store</a>
-        <a class="button secondary" href="https://github.com/phaneron23/hermes-agent-mobile/releases/latest/download/app-release.apk">⬇ Download Latest APK</a>
         <a class="button secondary" href="https://github.com/phaneron23/hermes-agent-mobile">⭐ View on GitHub</a>
       </div>
     </div>
